@@ -15,7 +15,7 @@ def divide(a, b):
 
 def calculator():
     while True:
-        print("\nSimple Calculator")
+        print("\nSimple Calculator") # it prints simple calculator
         print("1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. Exit")
         try:
             choice = int(input("Enter choice (1/2/3/4/5): "))
